@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LetsModReboot",
+  "name": "Lets Mod Reboot",
+  "description": "Vermz99's version of Lets Mod Reboot",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "vermz99","Authors"
+  ],
+  "credits": "Thanks Pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
